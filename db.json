@@ -1,49 +1,14 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "Jugo de Zanahoria",
-      "price": "31111"
+      "name": "awa",
+      "price": 213,
+      "id": 12
     },
     {
-      "id": 2,
-      "name": "Jugo de Naranja",
-      "price": "1"
-    },
-    {
-      "name": "Jugo de Naranja",
-      "price": "300",
-      "id": 3
-    },
-    {
-      "name": "Rib Eye 800g",
-      "price": "200",
-      "id": 4
-    },
-    {
-      "name": "Jugo de Fresa",
-      "price": "200",
-      "id": 5
-    },
-    {
-      "name": "Tequila",
-      "price": 200,
-      "id": 6
-    },
-    {
-      "name": "xTs",
-      "price": 3,
-      "id": 7
-    },
-    {
-      "name": "Jugo de naranja",
-      "price": 1,
-      "id": 8
-    },
-    {
-      "name": "MERN",
-      "price": 3,
-      "id": 9
+      "name": "aDXX",
+      "price": 53,
+      "id": 13
     }
   ]
 }
