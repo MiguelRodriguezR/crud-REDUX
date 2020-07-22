@@ -2,12 +2,12 @@
   "products": [
     {
       "name": "awa",
-      "price": 213,
+      "price": "500",
       "id": 12
     },
     {
       "name": "aDXX",
-      "price": 53,
+      "price": "1200",
       "id": 13
     }
   ]
